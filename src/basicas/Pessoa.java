@@ -12,6 +12,7 @@ public class Pessoa extends ObjetoGeral{
 	private String cpf;
 	private String rg;
 	private String emissor;
+	private String passaport;
 	private Date nascimento;
 	private Endereco endereco;
 	private Collection<String> telefones;
